@@ -55,6 +55,10 @@ It’s built for fun, chaos, and creative misuse. Think of it as the anti-gramma
 
 ---
 
+## 🌐 Live Demo
+
+👉 Try it live: [wrong-correct.vercel.app](https://wrong-correct.vercel.app)
+
 ## 📦 Getting Started
 
 ### 1. Clone the repository
@@ -63,6 +67,3 @@ It’s built for fun, chaos, and creative misuse. Think of it as the anti-gramma
 https://github.com/anriya1/auto-Corrupter.git
 
 
-## 🌐 Live Demo
-
-👉 Try it live: [wrong-correct.vercel.app](https://wrong-correct.vercel.app)
