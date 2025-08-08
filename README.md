@@ -1,69 +1,39 @@
-# 🤖 WrongCorrect™ – The Auto Corrupter
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
-> **"Correctly incorrect your perfectly correct text."**
-
-WrongCorrect™ is a web-based tool that takes user input (typed or pasted text), pretends to auto-correct it, but instead applies advanced AI-inspired algorithms to introduce realistic, chaotic, and often hilarious spelling mistakes.
-
-It’s built for fun, chaos, and creative misuse. Think of it as the anti-grammar tool.
-
+# **WrongCorrect™** 🎯  
+**The only app that makes your grammar worse — on purpose.**
 
 ---
 
-## ✨ Features
+## Basic Details  
+### Team Name: `🔥 NoTypoNoCry`  
 
-### 🔁 Smart Text Corruption Engine
-- Multi-layered word corruption:
-  - Letter swaps (transpositions)
-  - Character deletions and insertions
-  - Keyboard-neighbor substitutions (based on physical key proximity)
-  - Vowel chaos injection
-  - Double-letter glitches
-  - Common typo patterns (e.g. `tion` → `toin`)
-  - Word scrambling and noise
-- Preserves original word casing (Upper/lower/mixed)
-
-### 🧠 AI-Inspired Intelligence
-- Uses language-aware logic to decide what to corrupt
-- Avoids changing short or irrelevant words
-- Allows for multiple levels of corruption per word
-- Live word count and correction tracker
-
-### 💻 Input & Control
-- Live textarea input (typed or pasted)
-- Load complex sample paragraphs
-- Toggle for enabling/disabling correction engine
-- Clear text or regenerate with one click
-
-### 🎨 Stunning UI/UX
-- Animated glitch title ("WrongCorrect™")
-- Matrix-inspired animated gradient background
-- Floating particles, pulsing badges, animated icons
-- Responsive layout (desktop/mobile)
-- Live correction status with pulse indicators
+### Team Members  
+- Team Lead: **Your Name Here** - [College Name]  
+- Member 2: **Member Two** - [College Name]  
+- Member 3: **Member Three** - [College Name]  
 
 ---
 
-## 🛠️ Tech Stack
-
-| Layer        | Tech                                                                 |
-|--------------|----------------------------------------------------------------------|
-| **Frontend** | [Next.js (App Router)](https://nextjs.org), [React](https://react.dev), [TypeScript](https://www.typescriptlang.org) |
-| **Styling**  | [Tailwind CSS](https://tailwindcss.com), [ShadCN/UI](https://ui.shadcn.com), [Radix UI](https://www.radix-ui.com/) |
-| **Icons**    | [Lucide Icons](https://lucide.dev)                                   |
-| **Logic**    | Custom-built typo generator using keyboard mapping, string mutation  |
-
+## Project Description  
+**WrongCorrect™** is a smart-looking, dumb-acting web app that takes your pristine, well-written English and lovingly mangles it with believable typos, keyboard slips, and chaotic noise. Think autocorrect — but in reverse.  
 
 ---
 
-## 🌐 Live Demo
+### The Problem (that doesn't exist)  
+Too many apps help people *write better*. But what if… you *don't want* to write better? What if you're trying too hard and need to spice things up with good ol' fashioned human error?
 
-👉 Try it live:https://v0-incorrecter.vercel.app/
+---
 
-## 📦 Getting Started
+### The Solution (that nobody asked for)  
+WrongCorrect™ introduces believable spelling errors and AI-generated "corruptions" into your otherwise flawless writing. Perfect for trolls, glitch art enthusiasts, or anyone applying for a job they really don’t want.
 
-### 1. Clone the repository
+---
 
-```bash
-https://github.com/anriya1/auto-Corrupter.git
+## Technical Details  
 
+### Technologies/Components Used  
 
+**For Software:**  
+- **Languages:** TypeScript, JavaScript  
+- **Framework:** [Next.js 13+](https://nextjs.org/) with App Router (
