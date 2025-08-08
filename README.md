@@ -9,9 +9,8 @@
 ### Team Name: `🔥 NoTypoNoCry`  
 
 ### Team Members  
-- Team Lead: **Your Name Here** - [College Name]  
-- Member 2: **Member Two** - [College Name]  
-- Member 3: **Member Three** - [College Name]  
+- Team Lead: **ANULAKSHMI PR** - [scms school of engineering and technology]  
+- Member 2: **ANRIYA JOY** - [scms school of engineering and technology]  
 
 ---
 
