@@ -1,33 +1,64 @@
-# 🌀 Wrong Correct - The Auto Corrupter
+# 🤖 WrongCorrect™ – The Auto Corrupter
 
-> A web app that *fixes* your text... into total nonsense.
+> **"Correctly incorrect your perfectly correct text."**
 
-**Wrong Correct** is an intentionally chaotic auto-correction tool. You paste or type in normal text, and it first "auto-corrects" it — then "auto-corrupter" kicks in and messes everything up. Misspellings, grammatical errors, gibberish... total meaning loss guaranteed. Why? Because language is overrated.
+WrongCorrect™ is a web-based tool that takes user input (typed or pasted text), pretends to auto-correct it, but instead applies advanced AI-inspired algorithms to introduce realistic, chaotic, and often hilarious spelling mistakes.
+
+It’s built for fun, chaos, and creative misuse. Think of it as the anti-grammar tool.
+
 
 ---
 
 ## ✨ Features
 
-- 🧠 Accepts user input via typing or copy-paste
-- 🤖 Auto-corrects text using basic grammar rules or a spellchecker
-- 💥 *Then* corrupts the corrected text into hilarious, broken, and incorrect versions
-- 📄 Copy your corrupted masterpiece to clipboard
-- 💻 Simple and fun UI, no login required
+### 🔁 Smart Text Corruption Engine
+- Multi-layered word corruption:
+  - Letter swaps (transpositions)
+  - Character deletions and insertions
+  - Keyboard-neighbor substitutions (based on physical key proximity)
+  - Vowel chaos injection
+  - Double-letter glitches
+  - Common typo patterns (e.g. `tion` → `toin`)
+  - Word scrambling and noise
+- Preserves original word casing (Upper/lower/mixed)
 
----
+### 🧠 AI-Inspired Intelligence
+- Uses language-aware logic to decide what to corrupt
+- Avoids changing short or irrelevant words
+- Allows for multiple levels of corruption per word
+- Live word count and correction tracker
 
-## 🚀 Try it Live
+### 💻 Input & Control
+- Live textarea input (typed or pasted)
+- Load complex sample paragraphs
+- Toggle for enabling/disabling correction engine
+- Clear text or regenerate with one click
 
-https://v0-incorrecter.vercel.app/
-
+### 🎨 Stunning UI/UX
+- Animated glitch title ("WrongCorrect™")
+- Matrix-inspired animated gradient background
+- Floating particles, pulsing badges, animated icons
+- Responsive layout (desktop/mobile)
+- Live correction status with pulse indicators
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript (Vanilla or React)
-- **Text Correction:** Typo.js / Hunspell / Custom Dictionary
-- **Corruption Engine:** Custom logic for scrambling, replacing, and misspelling
+| Layer        | Tech                                                                 |
+|--------------|----------------------------------------------------------------------|
+| **Frontend** | [Next.js (App Router)](https://nextjs.org), [React](https://react.dev), [TypeScript](https://www.typescriptlang.org) |
+| **Styling**  | [Tailwind CSS](https://tailwindcss.com), [ShadCN/UI](https://ui.shadcn.com), [Radix UI](https://www.radix-ui.com/) |
+| **Icons**    | [Lucide Icons](https://lucide.dev)                                   |
+| **Logic**    | Custom-built typo generator using keyboard mapping, string mutation  |
+
 
 ---
 
+## 📦 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/wrong-correct.git
+cd wrong-correct
