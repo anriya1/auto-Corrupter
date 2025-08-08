@@ -60,5 +60,4 @@ It’s built for fun, chaos, and creative misuse. Think of it as the anti-gramma
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/wrong-correct.git
-cd wrong-correct
+https://github.com/anriya1/auto-Corrupter.git
