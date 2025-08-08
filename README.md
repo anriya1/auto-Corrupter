@@ -57,7 +57,7 @@ It’s built for fun, chaos, and creative misuse. Think of it as the anti-gramma
 
 ## 🌐 Live Demo
 
-👉 Try it live: [wrong-correct.vercel.app](https://wrong-correct.vercel.app)
+👉 Try it live:https://v0-incorrecter.vercel.app/
 
 ## 📦 Getting Started
 
