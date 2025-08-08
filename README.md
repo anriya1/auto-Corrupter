@@ -6,7 +6,7 @@
 ---
 
 ## Basic Details  
-### Team Name: `🔥 NoTypoNoCry`  
+### Team Name: `UNDEFINED`  
 
 ### Team Members  
 - Team Lead: **ANULAKSHMI PR** - [scms school of engineering and technology]  
